@@ -1,0 +1,118 @@
+{% extends 'xba/base_items.html' %}
+
+{% block list_header %}
+    <th>ID</th>
+    <th>Name</th>
+    <th>Email</th>
+    <th>Organization</th>
+    <th>Operations</th>
+{% endblock %}
+
+{% block list_body %}
+    <tr>
+        <td>1</td>
+        <td>Dakota Rice</td>
+        <td>abc1@inpluslab.com</td>
+        <td>Niger</td>
+        <td>
+            <span class="glyphicon glyphicon-cog op-edit" aria-hidden="true"></span>
+            <span class="glyphicon glyphicon-trash op-delete" aria-hidden="true"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Minerva Hooper</td>
+        <td>abc2@inpluslab.com</td>
+        <td>Curaçao</td>
+        <td>
+            <span class="glyphicon glyphicon-cog op-edit" aria-hidden="true"></span>
+            <span class="glyphicon glyphicon-trash op-delete" aria-hidden="true"></span>
+        </td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Minerva Hooper</td>
+        <td>abc3@inpluslab.com</td>
+        <td>Curaçao</td>
+        <td>
+            <span class="glyphicon glyphicon-cog op-edit" aria-hidden="true"></span>
+            <span class="glyphicon glyphicon-trash op-delete" aria-hidden="true"></span>
+        </td>
+    </tr>
+
+{% endblock %}
+
+{% block list_page %}
+    <li class="active"><a href="#">1</a></li>
+    <li><a href="#">2</a></li>
+    <li><a href="#">3</a></li>
+    <li><a href="#">4</a></li>
+    <li><a href="#">5</a></li>
+{% endblock %}
+
+{% block detail_form %}
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Name *</label>
+                <input type="text" class="form-control border-input" placeholder="Company" value="Chet">
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>中文名称 *</label>
+                <input type="text" class="form-control border-input" placeholder="Last Name" value="Faker">
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email *</label>
+                <input type="email" class="form-control border-input" placeholder="Email">
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Organization *</label>
+                <input type="text" class="form-control border-input" placeholder="Home Address"
+                       value="Melbourne, Australia">
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>组织 *</label>
+                <input type="text" class="form-control border-input" placeholder="Home Address"
+                       value="Melbourne, Australia">
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>Related Papers *</label>
+                {% include 'xba/compents/mutiselect.html' %}
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>头像上传 *</label>
+                <input type="file" class="form-control border-input" name="researcher-image">
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-info btn-fill btn-wd">Update Profile</button>
+    </div>
+    <div class="clearfix"></div>
+{% endblock %}

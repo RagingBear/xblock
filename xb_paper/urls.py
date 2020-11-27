@@ -17,5 +17,5 @@ from django.urls import path
 from xb_paper import views
 
 urlpatterns = [
-    path('', views.papers),
+
 ]

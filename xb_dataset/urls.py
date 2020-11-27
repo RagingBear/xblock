@@ -17,5 +17,5 @@ from django.urls import path
 from xb_dataset import views
 
 urlpatterns = [
-    path('', views.dataset),
+
 ]

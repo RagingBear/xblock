@@ -2,200 +2,171 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e2205db-4b4d-4b6b-a830-5a200bdb8c91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/xblock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/flexslider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/hover-min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/hover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.bxslider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/jquery.fancybox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/onepage-scroll.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/owl.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/prettyPhoto.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about/browse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about/graphics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about/web1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/back-top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner/l5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner/overaly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner/p10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner/p3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner/p5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner/v-overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bg_play_pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blog/pic9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/client1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/client2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/client3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/client4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/client5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/client6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/client7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/clients/client8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/color01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/controls.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/fancybox_loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/fancybox_loading@2x.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/fancybox_overlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/fancybox_sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/fancybox_sprite@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/glyphicons-halflings-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/glyphicons-halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/map1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/p1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/p2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/p3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/p4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/p5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/p6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/portfolio/p7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/contentPattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/contentPattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/default_thumbnail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/default_thumb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternBottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternLeft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternRight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternTop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/default_thumbnail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/btnNext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/btnPrevious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/default_thumbnail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slider/b6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slider/s1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slider/s2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/slider/s3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/team/pic6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/testimonial2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/gmaps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/imagelightbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/isotope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.bxslider.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.counterup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.fancybox.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.isotope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.prettyPhoto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.scrollTo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.singlePageNav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/smooth-scroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/vendor/jquery-1.10.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/vendor/modernizr-2.6.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/waypoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/dataset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/papers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/xb_base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/migrations/0002_auto_20201119_1742.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/migrations/0003_auto_20201119_1923.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/migrations/0004_auto_20201119_1929.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/migrations/0005_dataset_paper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_dataset/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/migrations/0002_paper_researchers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/migrations/0003_auto_20201119_1923.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/migrations/0004_auto_20201119_1929.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/migrations/0005_auto_20201119_1929.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xb_paper/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xblock/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xblock/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xblock/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xblock/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xblock/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/flexslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/hover-min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/hover-min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/hover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/jquery.bxslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/jquery.bxslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/jquery.fancybox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/onepage-scroll.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/onepage-scroll.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/owl.carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/owl.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/owl.theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/prettyPhoto.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/prettyPhoto.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/red.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/red.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/about/browse.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/about/browse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/about/graphics.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/about/graphics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/about/web1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/about/web1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/back-top.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/back-top.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/banner/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/banner/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/banner/l5.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/banner/l5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/banner/overaly.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/banner/overaly.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/banner/p10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/banner/p10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/banner/p3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/banner/p3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/banner/p5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/banner/p5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/banner/v-overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/banner/v-overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/bg/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/bg/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/bg/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/bg/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/bg_play_pause.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/bg_play_pause.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blank.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blank.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/blog/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/blog/pic9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/clients/client1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/clients/client2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client3.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/clients/client3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client4.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/clients/client4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client5.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/clients/client5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client6.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/clients/client6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client7.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/clients/client7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/clients/client8.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/clients/client8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/color01.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/color01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/controls.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/controls.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/fancybox_loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/fancybox_loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/fancybox_loading@2x.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/fancybox_loading@2x.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/fancybox_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/fancybox_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/fancybox_sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/fancybox_sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/fancybox_sprite@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/fancybox_sprite@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/glyphicons-halflings-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/glyphicons-halflings-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/glyphicons-halflings.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/glyphicons-halflings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/logo3.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/logo3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/map1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/map1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/portfolio/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/portfolio/p1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/portfolio/p2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/portfolio/p2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/portfolio/p3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/portfolio/p3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/portfolio/p4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/portfolio/p4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/portfolio/p5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/portfolio/p5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/portfolio/p6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/portfolio/p6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/portfolio/p7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/portfolio/p7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_rounded/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_rounded/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/contentPattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_rounded/contentPattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_rounded/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_rounded/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_rounded/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_square/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_square/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/contentPattern.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_square/contentPattern.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_square/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_square/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/dark_square/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/dark_square/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/default/default_thumb.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/default/default_thumb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/default/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/default/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/default/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_next.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/default/sprite_next.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_prev.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/default/sprite_prev.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_x.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/default/sprite_x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/default/sprite_y.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/default/sprite_y.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternBottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/contentPatternBottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternLeft.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/contentPatternLeft.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternRight.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/contentPatternRight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/contentPatternTop.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/contentPatternTop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/facebook/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/facebook/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_rounded/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_rounded/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_rounded/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_rounded/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_rounded/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/btnNext.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_square/btnNext.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/btnPrevious.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_square/btnPrevious.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/default_thumbnail.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_square/default_thumbnail.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_square/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/prettyPhoto/light_square/sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/prettyPhoto/light_square/sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/slider/b6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/slider/b6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/slider/s1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/slider/s1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/slider/s2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/slider/s2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/slider/s3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/slider/s3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/team/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/team/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/team/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/team/pic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/team/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/team/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/team/pic6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/testimonial2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/images/testimonial2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/gmaps.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/gmaps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/imagelightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/imagelightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/isotope.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/isotope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.bxslider.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.bxslider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.bxslider.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.bxslider.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.counterup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.easing.1.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.easing.1.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.fancybox.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.fancybox.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.isotope.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.isotope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.prettyPhoto.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.scrollTo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.scrollTo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.singlePageNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/jquery.singlePageNav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/owl.carousel.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/smooth-scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/smooth-scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor/jquery-1.10.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/vendor/jquery-1.10.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/vendor/modernizr-2.6.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/vendor/modernizr-2.6.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/wow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/xb/js/wow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/xb/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/dataset.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/xb/dataset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/xb/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/xb/papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/xb_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/xb/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xb_dataset/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/xb_dataset/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xb_dataset/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/xb_dataset/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xb_paper/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/xb_paper/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xb_paper/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/xb_paper/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xb_paper/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/xb_paper/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xblock/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xblock/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xblock/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/xblock/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xblock/views.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -207,110 +178,99 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.59246576">
+    <splitter split-orientation="horizontal" split-proportion="0.58588237">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/index.html">
+            <entry file="file://$PROJECT_DIR$/templates/xba/base.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-24309">
-                  <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="25" />
+                <state relative-caret-position="-1277">
+                  <caret line="65" column="55" selection-start-line="65" selection-start-column="55" selection-end-line="65" selection-end-column="55" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/about.html">
+            <entry file="file://$PROJECT_DIR$/templates/xba/paper.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1751">
-                  <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+                <state relative-caret-position="409">
+                  <caret line="123" column="56" selection-start-line="123" selection-start-column="56" selection-end-line="123" selection-end-column="56" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/papers.html">
+            <entry file="file://$PROJECT_DIR$/templates/xba/base_items.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+                <state relative-caret-position="471">
+                  <caret line="40" column="22" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/xblock/urls.py">
+            <entry file="file://$PROJECT_DIR$/templates/xba/compents/mutiselect.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-                  <folding>
-                    <element signature="e#630#662#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/xb_paper/urls.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/xb_dataset/urls.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-                  <folding>
-                    <element signature="e#630#658#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/xb_base.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="928">
-                  <caret line="207" selection-start-line="207" selection-end-line="207" selection-end-column="44" />
-                  <folding>
-                    <element signature="e#49593#49599#0#HTML" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/xb_dataset/admin.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="35" />
-                  <folding>
-                    <element signature="e#0#32#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="323">
+                  <caret line="17" column="77" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/xb_paper/admin.py">
+            <entry file="file://$PROJECT_DIR$/templates/xba/compents/select.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+                <state relative-caret-position="304">
+                  <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/xba/researcher.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="167">
+                  <caret line="98" column="37" selection-start-line="98" selection-start-column="37" selection-end-line="98" selection-end-column="37" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/xba/dataset.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="376">
+                  <caret line="124" column="52" selection-start-line="124" selection-start-column="52" selection-end-line="124" selection-end-column="52" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/xba/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2185">
+                  <caret line="115" column="77" lean-forward="true" selection-start-line="115" selection-start-column="77" selection-end-line="115" selection-end-column="77" />
                   <folding>
-                    <element signature="e#0#32#0" expanded="true" />
+                    <element signature="e#5700#5735#0#HTML" expanded="true" />
+                    <element signature="e#5115#5151#0#HTML" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/dataset.html">
+            <entry file="file://$PROJECT_DIR$/templates/xb/base.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret selection-end-line="3" selection-end-column="16" />
+                <state relative-caret-position="969">
+                  <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/xb/dataset.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="57">
+                  <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
@@ -318,32 +278,156 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/xb_dataset/views.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/xb_paper/views.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
+        <splitter split-orientation="vertical" split-proportion="0.5">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/xba/urls.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="136">
+                      <caret line="24" column="15" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="15" />
+                      <folding>
+                        <element signature="e#665#693#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/static/xba/js/index.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="44">
+                      <caret line="134" column="70" selection-start-line="134" selection-start-column="70" selection-end-line="134" selection-end-column="70" />
+                      <folding>
+                        <element signature="e#2468#3413#0" />
+                        <element signature="e#3759#4338#0" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xb/views.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="247">
+                      <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xblock/settings.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="684">
+                      <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xb_paper/views.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="76">
+                      <caret line="4" selection-start-line="4" selection-end-line="4" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xb/urls.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="418">
+                      <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+                      <folding>
+                        <element signature="e#665#693#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xb_dataset/views.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="95">
+                      <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xb_dataset/models.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="76">
+                      <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xb_paper/models.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="171">
+                      <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xb_dataset/urls.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="342">
+                      <caret line="19" selection-start-line="19" selection-end-line="19" />
+                      <folding>
+                        <element signature="e#630#658#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xblock/urls.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="380">
+                      <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/xb_paper/urls.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="304">
+                      <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                      <folding>
+                        <element signature="e#630#658#0" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/xba/views.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="209">
+                      <caret line="17" column="77" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
       </split-second>
     </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -351,6 +435,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>href=&quot;&quot;</find>
+      <find>urls</find>
+      <find>identity</find>
+      <find>back</find>
+      <find>chart-legend</find>
+      <find>class=&quot;footer&quot;</find>
+      <find>id=&quot;chartHours&quot;</find>
+      <find>chartMouth</find>
+      <find>Follow</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -361,29 +453,55 @@
       <list>
         <option value="$PROJECT_DIR$/xblock/__init__.py" />
         <option value="F:/python/Lib/site-packages/django/db/backends/mysql/operations.py" />
-        <option value="$PROJECT_DIR$/xb_paper/models.py" />
         <option value="$PROJECT_DIR$/xb_dataset/models.py" />
-        <option value="$PROJECT_DIR$/xblock/settings.py" />
         <option value="$PROJECT_DIR$/templates/xb_header.html" />
         <option value="$PROJECT_DIR$/templates/xb_footer.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/xblock/views.py" />
-        <option value="$PROJECT_DIR$/xb_dataset/views.py" />
-        <option value="$PROJECT_DIR$/xb_dataset/urls.py" />
-        <option value="$PROJECT_DIR$/xb_paper/views.py" />
-        <option value="$PROJECT_DIR$/xb_paper/urls.py" />
         <option value="$PROJECT_DIR$/templates/dataset.html" />
         <option value="$PROJECT_DIR$/templates/about.html" />
-        <option value="$PROJECT_DIR$/xblock/urls.py" />
         <option value="$PROJECT_DIR$/templates/xb_base.html" />
         <option value="$PROJECT_DIR$/xb_dataset/admin.py" />
         <option value="$PROJECT_DIR$/xb_paper/admin.py" />
+        <option value="$PROJECT_DIR$/bootstrap.sh" />
+        <option value="$PROJECT_DIR$/templates/test.html" />
+        <option value="$PROJECT_DIR$/xblock/settings.py" />
+        <option value="$PROJECT_DIR$/templates/xb/base.html" />
+        <option value="$PROJECT_DIR$/xblock/views.py" />
+        <option value="$PROJECT_DIR$/templates/xba/table.html" />
+        <option value="$PROJECT_DIR$/templates/xba/typography.html" />
+        <option value="$PROJECT_DIR$/templates/xba/notifications.html" />
+        <option value="$PROJECT_DIR$/templates/xba/icons.html" />
+        <option value="$PROJECT_DIR$/xb_dataset/views.py" />
+        <option value="$PROJECT_DIR$/xb_dataset/urls.py" />
+        <option value="$PROJECT_DIR$/xblock/urls.py" />
+        <option value="$PROJECT_DIR$/xb_paper/urls.py" />
+        <option value="$PROJECT_DIR$/xb_paper/views.py" />
+        <option value="$PROJECT_DIR$/xb/views.py" />
+        <option value="$PROJECT_DIR$/xb/urls.py" />
+        <option value="$PROJECT_DIR$/xb_paper/models.py" />
+        <option value="$PROJECT_DIR$/static/xba/js/researcher.js" />
+        <option value="$PROJECT_DIR$/static/xba/js/dataset.js" />
+        <option value="$PROJECT_DIR$/templates/xb/index.html" />
+        <option value="$PROJECT_DIR$/templates/xba/compents/item_list_detail.html" />
+        <option value="$PROJECT_DIR$/templates/xba/items.html" />
+        <option value="$PROJECT_DIR$/static/xba/js/index.js" />
+        <option value="$PROJECT_DIR$/templates/xba/index.html" />
+        <option value="$PROJECT_DIR$/xba/urls.py" />
+        <option value="$PROJECT_DIR$/xba/views.py" />
+        <option value="$PROJECT_DIR$/templates/xba/base_items.html" />
+        <option value="$PROJECT_DIR$/templates/xba/compents.html" />
+        <option value="$PROJECT_DIR$/templates/xba/base.html" />
+        <option value="$PROJECT_DIR$/templates/xba/paper.html" />
+        <option value="$PROJECT_DIR$/templates/xba/dataset.html" />
+        <option value="$PROJECT_DIR$/templates/xba/researcher.html" />
+        <option value="$PROJECT_DIR$/templates/xba/compents/mutiselect.html" />
+        <option value="$PROJECT_DIR$/templates/xba/compents/select.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="230" />
-    <option name="y" value="91" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-39" />
+    <option name="y" value="71" />
     <option name="width" value="1695" />
     <option name="height" value="910" />
   </component>
@@ -403,7 +521,63 @@
             <path>
               <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
               <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="xba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="xba" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="xba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="xba" type="462c0819:PsiDirectoryNode" />
+              <item name="compents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="xb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
               <item name="xb_dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="xb_paper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="xba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xblock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
+              <item name="xblock" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -422,11 +596,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\templates" />
-      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\xb_dataset" />
-      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\xb_paper" />
-      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\xblock" />
-      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\static" />
+      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\templates\xba" />
+      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\xba" />
+      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\xb" />
+      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\static\xba" />
+      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\static\xba" />
+      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\templates\xb" />
+      <recent name="C:\Users\HP\Desktop\Factory\inplus\XBlock\xblock\static\xb" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -481,18 +660,23 @@
       <workItem from="1605757047485" duration="6820000" />
       <workItem from="1605870286379" duration="740000" />
       <workItem from="1605922216996" duration="280000" />
-      <workItem from="1605922822465" duration="9484000" />
+      <workItem from="1605922822465" duration="10521000" />
+      <workItem from="1606097636236" duration="12062000" />
+      <workItem from="1606201573862" duration="599000" />
+      <workItem from="1606292112504" duration="14278000" />
+      <workItem from="1606391417074" duration="8421000" />
+      <workItem from="1606441322878" duration="13518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20522000" />
+    <option name="totallyTimeSpent" value="70437000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16621985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14544237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -506,7 +690,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.43909347" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2592068" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -515,6 +699,30 @@
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14544237" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.31586403" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -530,29 +738,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/css/red.css">
+    <entry file="file://$PROJECT_DIR$/static/xb/css/red.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xb_paper/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="30" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xb_dataset/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="87" selection-start-line="13" selection-start-column="87" selection-end-line="13" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xblock/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="126" column="23" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -564,102 +751,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/xb_footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xblock/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xb_paper/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xb_dataset/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/dataset.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xb_paper/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xb_dataset/urls.py">
+    <entry file="file://$PROJECT_DIR$/templates/xb_footer.html" />
+    <entry file="file://$PROJECT_DIR$/templates/xb/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#630#658#0" expanded="true" />
-          </folding>
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/papers.html">
+    <entry file="file://$PROJECT_DIR$/templates/xb/papers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xblock/urls.py">
+    <entry file="file://$PROJECT_DIR$/bootstrap" />
+    <entry file="file://$PROJECT_DIR$/bootstrap.sh" />
+    <entry file="file://$PROJECT_DIR$/templates/test.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/pip-install-d2vh5pka/django-xadmin/setup.py" />
+    <entry file="file://F:/python/Lib/site-packages/xadmin/sites.py" />
+    <entry file="file://F:/python/Lib/wsgiref/handlers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="-280">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/python/Lib/site-packages/django/views/debug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="330" column="58" lean-forward="true" selection-start-line="330" selection-start-column="58" selection-end-line="330" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xblock/views.py" />
+    <entry file="file://$PROJECT_DIR$/templates/xba/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/templates/xba/typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1919">
+          <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
           <folding>
-            <element signature="e#630#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1751">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-24309">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/xb_base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="207" selection-start-line="207" selection-end-line="207" selection-end-column="44" />
-          <folding>
-            <element signature="e#49593#49599#0#HTML" expanded="true" />
+            <element signature="n#div#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xb_dataset/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="57">
           <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="35" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -667,13 +807,252 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/notifications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/icons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22439">
+          <caret line="1181" column="14" selection-start-line="1181" selection-start-column="14" selection-end-line="1181" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xb_paper/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="76">
           <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="131" column="42" selection-start-line="131" selection-start-column="42" selection-end-line="131" selection-end-column="42" />
+          <folding>
+            <element signature="e#113#3149#0#HTML" />
+            <element signature="e#5902#13511#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/xba/js/dataset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/compents/item_list_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#nav#0;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#li#6;n#ul#0;n#nav#0;n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xb/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xb/dataset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/xba/js/researcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xb/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xblock/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xb_paper/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xb/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#665#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xb_dataset/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#630#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xblock/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xb_paper/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#630#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xb_dataset/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xb_dataset/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xb_paper/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="115" column="77" lean-forward="true" selection-start-line="115" selection-start-column="77" selection-end-line="115" selection-end-column="77" />
+          <folding>
+            <element signature="e#5700#5735#0#HTML" expanded="true" />
+            <element signature="e#5115#5151#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/xba/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="134" column="70" selection-start-line="134" selection-start-column="70" selection-end-line="134" selection-end-column="70" />
+          <folding>
+            <element signature="e#2468#3413#0" />
+            <element signature="e#3759#4338#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xba/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="15" />
+          <folding>
+            <element signature="e#665#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xba/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="77" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/compents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/base_items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1277">
+          <caret line="65" column="55" selection-start-line="65" selection-start-column="55" selection-end-line="65" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/dataset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="124" column="52" selection-start-line="124" selection-start-column="52" selection-end-line="124" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/paper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="123" column="56" selection-start-line="123" selection-start-column="56" selection-end-line="123" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/researcher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="98" column="37" selection-start-line="98" selection-start-column="37" selection-end-line="98" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/compents/mutiselect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="77" selection-start-line="17" selection-start-column="77" selection-end-line="17" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/xba/compents/select.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
         </state>
       </provider>
     </entry>

@@ -5,6 +5,8 @@ from django.db import models
 class Researcher(models.Model):
     organization = models.CharField(max_length=1024)
     name = models.CharField(max_length=1024)
+    image = models.CharField(max_length=1024, null=True)
+    email = models.CharField(max_length=128, null=True)
 
     class Meta:
         db_table = 'Researcher'
@@ -29,4 +31,3 @@ class Paper(models.Model):
 
     class Meta:
         db_table = 'Paper'
-

@@ -1,0 +1,93 @@
+{% extends 'xba/base.html' %}
+
+{% block content %}
+    <div class="content item-list">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="header">
+                    <h4 class="title">Striped Table</h4>
+                    <p class="category">Here is a subtitle for this table</p>
+                    <span class="glyphicon glyphicon-plus pull-right op-add" aria-hidden="true"></span>
+                </div>
+                <div class="content table-responsive table-full-width">
+                    <table class="table table-striped">
+                        <thead>
+                        <tr>
+                            {% block list_header %}{% endblock %}
+                        </tr>
+                        </thead>
+                        <tbody>
+                        {% block list_body %}{% endblock %}
+                        </tbody>
+                    </table>
+
+                </div>
+                <div class="text-center">
+                    <nav aria-label="Page navigation ">
+                        <ul class="pagination">
+                            <li>
+                                <a href="#" aria-label="Previous">
+                                    <span aria-hidden="true">«</span>
+                                </a>
+                            </li>
+                            {% block list_page %}{% endblock %}
+                            <li>
+                                <a href="#" aria-label="Next">
+                                    <span aria-hidden="true">»</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="content item-detail">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <div class="card">
+                        <div class="header">
+                            <h4 class="title">Edit Item</h4>
+                        </div>
+                        <div class="content">
+                            <form>
+                                {% block detail_form %}{% endblock %}
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block source %}
+    <script>
+        $(function () {
+            $(".item-detail").hide();
+            $('.glyphicon').css('cursor', 'pointer');
+
+            $(".op-edit").click(function () {
+                $(".btn-back").show();
+                $(".item-detail").show();
+                $(".item-list").hide();
+                console.log("op-edit click");
+            });
+
+            $(".op-add").click(function () {
+                $(".btn-back").show();
+                $(".item-detail").show();
+                $(".item-list").hide();
+                console.log("op-add click");
+            });
+
+            $(".btn-back").click(function () {
+                $(".btn-back").hide();
+                $(".item-list").show();
+                $(".item-detail").hide();
+                console.log("back click");
+            });
+        });
+    </script>
+{% endblock %}
