@@ -24,7 +24,7 @@ SECRET_KEY = '3oi)be0x@g@2j#9yfbczge-tu8!t4%%blf@t$8nu6j(*_8)vk^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -37,17 +37,19 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'xb_paper',
     'xb_dataset',
-
+    'xb_log',
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
+    'xblock.middlewares.CorsMiddleware',
+    # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'xb_log.middlewares.AccessLogMiddleware',
 ]
 
 ROOT_URLCONF = 'xblock.urls'

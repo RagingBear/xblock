@@ -8,30 +8,29 @@ class Dataset(models.Model):
     introduction_zh = models.TextField()
     introduction_en = models.TextField()
     url = models.CharField(max_length=1024)
-    cite_bibTex = models.CharField(max_length=1024, null=True)
-    cite_ACM = models.CharField(max_length=1024, null=True)
-    cite_IEEE = models.CharField(max_length=1024, null=True)
+    cite_bibTex = models.TextField()
+    cite_ACM = models.TextField()
+    cite_IEEE = models.TextField()
     paper = models.OneToOneField('xb_paper.Paper', on_delete=models.SET_NULL, null=True)
 
     class Meta:
         db_table = 'Dataset'
+        verbose_name = verbose_name_plural = '数据集'
+
+    def __str__(self):
+        return '%s(%s)' % (self.name_en, self.name_zh)
 
 
 class DatasetFile(models.Model):
+    name = models.CharField(max_length=1024)
     introduction_zh = models.TextField()
     introduction_en = models.TextField()
     sample = models.TextField()
     dataset = models.ForeignKey('xb_dataset.Dataset', on_delete=models.CASCADE)
-    Columns = models.ManyToManyField('xb_dataset.DatasetFileColumn')
 
     class Meta:
         db_table = 'DatasetFile'
+        verbose_name = verbose_name_plural = '数据集文件'
 
-
-class DatasetFileColumn(models.Model):
-    key = models.CharField(max_length=128)
-    introduction_zh = models.TextField()
-    introduction_en = models.TextField()
-
-    class Meta:
-        db_table = 'DatasetFileColumn'
+    def __str__(self):
+        return '%s:%s(%s)' % (self.name, self.dataset.name_en, self.dataset.name_zh)
