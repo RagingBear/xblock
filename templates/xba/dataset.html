@@ -1,54 +1,13 @@
-{% extends 'xba/base_items.html' %}
+{% extends 'xba/base_list.html' %}
 
-{% block list_header %}
-    <th>Name</th>
-    <th>Introduction</th>
-    <th>URL</th>
-    <th>Paper</th>
-    <th>Operations</th>
+{% block list %}
+    <div id="toolbar">
+        <button id="remove" class="btn btn-danger" disabled>
+            <i class="glyphicon glyphicon-trash"></i> Delete
+        </button>
+    </div>
+    <table id="tbl"></table>
 {% endblock %}
-
-{% block list_body %}
-    <tr>
-        <td>1</td>
-        <td>Dakota Rice</td>
-        <td><a href="#"> http://xblock.pro/dataset </a></td>
-        <td>Niger</td>
-        <td>
-            <span class="glyphicon glyphicon-cog op-edit" aria-hidden="true"></span>
-            <span class="glyphicon glyphicon-trash op-delete" aria-hidden="true"></span>
-        </td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Dakota Rice</td>
-        <td><a href="#"> http://xblock.pro/dataset </a></td>
-        <td>Niger</td>
-        <td>
-            <span class="glyphicon glyphicon-cog op-edit" aria-hidden="true"></span>
-            <span class="glyphicon glyphicon-trash op-delete" aria-hidden="true"></span>
-        </td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Dakota Rice</td>
-        <td><a href="#"> http://xblock.pro/dataset </a></td>
-        <td>Niger</td>
-        <td>
-            <span class="glyphicon glyphicon-cog op-edit" aria-hidden="true"></span>
-            <span class="glyphicon glyphicon-trash op-delete" aria-hidden="true"></span>
-        </td>
-    </tr>
-{% endblock %}
-
-{% block list_page %}
-    <li class="active"><a href="#">1</a></li>
-    <li><a href="#">2</a></li>
-    <li><a href="#">3</a></li>
-    <li><a href="#">4</a></li>
-    <li><a href="#">5</a></li>
-{% endblock %}
-
 
 {% block detail_form %}
     <div class="row">
@@ -72,15 +31,74 @@
         <div class="col-md-6">
             <div class="form-group">
                 <label for="exampleInputEmail1">Introduction *</label>
-                <textarea rows="5" class="form-control border-input" placeholder="Here can be your description"
-                          value="Mike"></textarea>
+                <div class="rich-text"></div>
             </div>
         </div>
         <div class="col-md-6">
             <div class="form-group">
                 <label for="exampleInputEmail1">简介 *</label>
-                <textarea rows="5" class="form-control border-input" placeholder="Here can be your description"
-                          value="Mike"></textarea>
+                <div class="rich-text"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <label>数据集样例 *</label>
+                <div class="container">
+                    <div class="row">
+                        <ul class="nav nav-tabs">
+                            <li class="active">
+                                <a href="#">data1.csv</a>
+                            </li>
+                            <li>
+                                <a href="#">data2.csv</a>
+                            </li>
+                            <li class="dropdown pull-right">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle">ops<strong
+                                        class="caret"></strong></a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="#">Add</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Delete</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                    <textarea rows="22" class="form-control border-input" placeholder="Here can be your description"
+                              value="Mike">{
+	"name": "input the sample name",
+	"introduction": {
+		"zh":"input introduction with Chinese",
+		"en":"input introduction with English"
+	},
+	"columns": {
+		"key1": {
+			"zh": "input column description with Chinses",
+			"en": "input column description with English"
+		},
+		"key2": {
+			"zh": "input column description with Chinses",
+			"en": "input column description with English"
+		}
+	},
+	"sample": [
+		{"key1":"value1", "key2":100},
+		{"key1":"value2", "key2":101},
+		{"key1":"value3", "key2":102}
+	]
+}</textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -130,4 +148,10 @@
     <div class="text-center">
         <button type="submit" class="btn btn-info btn-fill btn-wd">Update / Create</button>
     </div>
+{% endblock %}
+
+{% block source %}
+    {{ block.super }}
+    <script type="text/javascript" src="http://unpkg.com/wangeditor/dist/wangEditor.min.js"></script>
+    <script type="text/javascript" src="/static/xba/js/dataset.js"></script>
 {% endblock %}

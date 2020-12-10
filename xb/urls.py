@@ -23,4 +23,5 @@ urlpatterns = [
     path('dataset/', views.dataset),
     path('papers/', views.papers),
     path('about/', views.about),
+    path('help/', views.help),
 ]

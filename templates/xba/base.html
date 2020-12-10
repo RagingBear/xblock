@@ -32,6 +32,9 @@
     <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
     <link href="/static/xba/css/themify-icons.css" rel="stylesheet">
 
+    <!-- Bootstrap Table -->
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.18.0/dist/bootstrap-table.min.css">
+
 </head>
 <body>
 
@@ -73,6 +76,12 @@
                     <a href="/admin/dataset">
                         <i class="ti-view-list-alt"></i>
                         <p>Dataset</p>
+                    </a>
+                </li>
+                <li {% if request_path == '/admin/access' %}class="active"{% endif %}>
+                    <a href="/admin/access">
+                        <i class="ti-map"></i>
+                        <p>AccessLog</p>
                     </a>
                 </li>
 

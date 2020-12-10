@@ -16,3 +16,7 @@ def paper(request):
 
 def dataset(request):
     return render(request, 'xba/dataset.html', {'request_path': request.path})
+
+
+def access(request):
+    return render(request, 'xba/access.html', {"request_path": request.path})

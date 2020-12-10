@@ -23,4 +23,6 @@ urlpatterns = [
     path('researcher', views.researcher),
     path('dataset', views.dataset),
     path('paper', views.paper),
+    path('access', views.access),
+
 ]

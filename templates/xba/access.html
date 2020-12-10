@@ -1,0 +1,17 @@
+{% extends 'xba/base_list.html' %}
+
+{% block list %}
+    <div id="toolbar">
+        <button id="remove" class="btn btn-danger">
+            <i class="glyphicon glyphicon-trash"></i> Delete
+        </button>
+    </div>
+    <table id="tbl"></table>
+{% endblock %}
+
+{% block source %}
+    {{ block.super }}
+    <script type="text/javascript" src="/static/xba/js/dataset.js"></script>
+    <script src="https://unpkg.com/bootstrap-table@1.18.0/dist/bootstrap-table.min.js"></script>
+    <script type="text/javascript" src="/static/xba/js/access.js"></script>
+{% endblock %}
