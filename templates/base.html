@@ -538,7 +538,6 @@
 
         @media (min-width: 769px) {
             .ast-theme-transparent-header #masthead {
-                position: absolute;
                 left: 0;
                 right: 0;
             }
@@ -890,12 +889,15 @@ flexibility(document.documentElement);
                             <div class="site-branding">
                                 <div class="ast-site-identity" itemscope="itemscope"
                                      itemtype="https://schema.org/Organization">
-                                    <span class="site-logo-img"><a href="index.html" class="custom-logo-link"
-                                                                   rel="home"><img width="326" height="49"
-                                                                                   src="wp-content/uploads/2019/09/logo-326x49.png"
-                                                                                   class="custom-logo" alt="XBlock"
-                                                                                   srcset="http://xblock.pro/wp-content/uploads/2019/09/logo-326x49.png 326w, http://xblock.pro/wp-content/uploads/2019/09/logo-300x45.png 300w, http://xblock.pro/wp-content/uploads/2019/09/logo-600x90.png 600w, http://xblock.pro/wp-content/uploads/2019/09/logo.png 666w"
-                                                                                   sizes="(max-width: 326px) 100vw, 326px"/></a></span>
+                                    <span class="site-logo-img">
+                                        <a href="/" class="custom-logo-link" rel="home">
+                                        <img width="326" height="49"
+                                             src="wp-content/uploads/2019/09/logo-326x49.png"
+                                             class="custom-logo" alt="XBlock"
+                                             srcset="http://xblock.pro/wp-content/uploads/2019/09/logo-326x49.png 326w, http://xblock.pro/wp-content/uploads/2019/09/logo-300x45.png 300w, http://xblock.pro/wp-content/uploads/2019/09/logo-600x90.png 600w, http://xblock.pro/wp-content/uploads/2019/09/logo.png 666w"
+                                             sizes="(max-width: 326px) 100vw, 326px"/>
+                                        </a>
+                                    </span>
                                 </div>
                             </div>
 
@@ -924,7 +926,7 @@ flexibility(document.documentElement);
                                                 class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border">
                                                 <li id="menu-item-343"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-95 current_page_item menu-item-343">
-                                                    <a title="						" href="index.html"
+                                                    <a title="						" href="/"
                                                        aria-current="page">Home</a></li>
                                                 <li id="menu-item-14456"
                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14456">
@@ -961,11 +963,10 @@ flexibility(document.documentElement);
 
 </div><!-- #content -->
 
-{% block content %}{% endblock %}
-
 
 <div class="hfe-before-footer-wrap">
     <div class='footer-width-fixer'></div>
+    {% block content %}{% endblock %}
 </div>
 
 
